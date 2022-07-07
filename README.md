@@ -8,6 +8,7 @@ Back-end: Java, Node.js<br/>
 Back-end frameworks/libraries: Spring framework, Express.js<br/>
 Databases: MySQL, MongoDB<br/>
 Additional: hibernate, mongoose or Nodejs driver<br/>
+⚙️on the way: AWS, Docker, Kubernates<br/>
 <br/>
 - 💞️ I’m looking to collaborate on all above technologies.<br/>
 - 📫 How to reach me you can reach at <a href="https://www.linkedin.com/in/e-tariq-almalki" title="About Me">linkedin.</a><br/>
