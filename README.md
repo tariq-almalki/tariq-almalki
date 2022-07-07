@@ -9,9 +9,9 @@ Back-end frameworks/libraries: Spring framework, Express.js<br/>
 Databases: MySQL, MongoDB<br/>
 Additional: hibernate, mongoose or Nodejs driver<br/>
 <br/>
-- 💞️ I’m looking to collaborate on all above technologies.
-- 📫 How to reach me you can reach at <a href="https://www.linkedin.com/in/e-tariq-almalki" title="About Me">linkedin.</a>
-- check out my Projects!
+- 💞️ I’m looking to collaborate on all above technologies.<br/>
+- 📫 How to reach me you can reach at <a href="https://www.linkedin.com/in/e-tariq-almalki" title="About Me">linkedin.</a><br/>
+- check out my Projects!<br/>
 
 <!---
 tariq-almalki/tariq-almalki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
