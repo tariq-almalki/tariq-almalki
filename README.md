@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tariq-almalki
 - 👀 I’m interested in full-stack web development, specifically in the following technologies:<br/><br/>
-Core Languages: Java, Javascript, Python<br/>
+Core Languages: Java, Javascript<br/>
 Front-end: HTML5, CSS3<br/>
 Front-end frameworks/libraries: React.js<br/>
 Back-end: Java, Node.js<br/>
