@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack web development, specifically in the following technologies:<br/><br/>
 Core Languages: Java, Javascript<br/>
 Front-end: HTML5, CSS3<br/>
-Front-end frameworks/libraries: React.js<br/>
+Front-end frameworks/libraries: React.js, React Router<br/>
 Back-end: Java, Node.js<br/>
 Back-end frameworks/libraries: Spring framework, Express.js<br/>
 Databases: MySQL using hibernate, MongoDB using mongoose<br/>
