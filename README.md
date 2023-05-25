@@ -2,12 +2,12 @@
 - 👀 I’m interested in full-stack web development, specifically in the following technologies:<br/><br/>
 Core Languages: Java, Javascript<br/>
 Front-end: HTML5, CSS3<br/>
-Front-end frameworks/libraries: React.js, React Router<br/>
+Front-end frameworks/libraries: React.js, React Router, styled-components<br/>
 Back-end: Java, Node.js<br/>
 Back-end frameworks/libraries: Spring framework, Express.js<br/>
 Databases: MySQL using hibernate, MongoDB using mongoose<br/>
 OS: Linux, Windows <br/>
-⚙️on the way: AWS, Docker, Kubernetes, Golang<br/><br/>
+⚙️on the way: AWS, Docker, Kubernetes, Golang, Typescript<br/><br/>
 - 💞️ I’m looking to collaborate on all above technologies.<br/>
 - 📫 How to reach me you can reach at <a href="https://www.linkedin.com/in/e-tariq-almalki" title="About Me">linkedin.</a><br/>
 - check out my Projects!<br/>
