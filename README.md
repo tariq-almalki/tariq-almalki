@@ -8,7 +8,7 @@ Back-end frameworks/libraries: Spring framework, Express.js<br/>
 Databases: MySQL, OracleSQL<br/>
 OS: Linux, Windows <br/>
 Containerization: Docker, Docker-Compose<br/>
-On-The-Way: AWS, Kubernetes, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, AI, LLMs, Typescript, PostgreSQL, Github Actions<br/><br/>
+On-The-Way: AWS, Kubernetes, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, AI, Typescript, PostgreSQL, Github Actions<br/><br/>
 Things-I-Want-To-Try: Astrojs, ~~Vitejs~~.
 - 💞️ I’m looking to collaborate on all above technologies.<br/>
 - 📫 How to reach me you can reach at <a href="https://www.linkedin.com/in/e-tariq-almalki" title="About Me">linkedin.</a><br/>
