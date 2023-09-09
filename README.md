@@ -1,4 +1,4 @@
-**Core Languages: Java, Javascript, Python [, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia]**\
+**Core Languages: Java, Javascript, Python [, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia, R]**\
 **Front-end: Javascript, HTML5, CSS3**\
 **preprocessor scripting language: [SASS/SCSS]**\
 **Front-ends frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, React-Query, Angular]**\
