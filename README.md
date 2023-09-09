@@ -15,7 +15,7 @@
 **Testing libraries: [Jest, Junit 5, pytest]**\
 **APIs Architechture: [REST APIs, GraphQL APIs, gRPC/RPC APIs]**\
 \
-**and AI.**
+**and ML.**
 
 <!---
 tariq-almalki/tariq-almalki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
