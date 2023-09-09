@@ -6,7 +6,7 @@
 **Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails]**\
 **Build Tools: [Maven, SWC, esbuild, Gradle]**\
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
-**Object-Relational Mappings: [JOOQ, Hibernate]**\
+**Object-Relational Mappings: [JOOQ, Hibernate, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
 **Containers: Docker, Docker-Compose [, Kubernetes]**\
 **CI/CD servers: [Jenkins, Github Actions]**\
