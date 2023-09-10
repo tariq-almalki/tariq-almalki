@@ -7,12 +7,13 @@
 **Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails]**\
 **Build Tools: Maven, Gradle [, swc, esbuild]**\
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
-**Object-Relational Mappings: [JOOQ, Hibernate, typeORM, sequelize, prisma]**\
+**ORMs: [JOOQ, Hibernate, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
 **Linux distributions: [centos, ubuntu, debian]**\
 **Linux shells: [bash, zsh, ash, fish, tcsh, ksh]**\
 **Containers: Docker, Docker-Compose [, Kubernetes]**\
 **CI/CD servers: [Jenkins, Github Actions]**\
+**IaC: [Terraform]**\
 **Cloud: [AWS]**\
 **Testing libraries: [Jest, Junit 5, pytest]**\
 **APIs Architechture: [REST APIs, GraphQL APIs, gRPC/RPC APIs]**\
