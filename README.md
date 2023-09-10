@@ -5,7 +5,7 @@
 **Front-end state management libraries: [, zustand, redux/redux toolkit, mobx]**\
 **Back-end Languages: Java, Node.js [, Bun, ASP.NET]**\
 **Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails]**\
-**Build Tools: [Maven, Gradle, swc, esbuild]**\
+**Build Tools: Maven, Gradle [, swc, esbuild]**\
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
 **Object-Relational Mappings: [JOOQ, Hibernate, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
