@@ -9,6 +9,8 @@
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
 **Object-Relational Mappings: [JOOQ, Hibernate, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
+**Linux distributions: [centos, ubuntu, debian]**\
+**Linux shells: [bash, zsh, ash, fish]**\
 **Containers: Docker, Docker-Compose [, Kubernetes]**\
 **CI/CD servers: [Jenkins, Github Actions]**\
 **Cloud: [AWS]**\
