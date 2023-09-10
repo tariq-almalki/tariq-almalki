@@ -13,7 +13,7 @@
 **Linux shells: [bash, zsh, ash, fish, tcsh, ksh]**\
 **Containers: Docker, Docker-Compose [, Kubernetes]**\
 **CI/CD servers: [Jenkins, Github Actions]**\
-**IaC: [Terraform]**\
+**IaC: [Terraform, Ansible]**\
 **Cloud: [AWS]**\
 **Testing libraries: [Jest, Junit 5, pytest]**\
 **APIs Architechture: [REST APIs, GraphQL APIs, gRPC/RPC APIs]**\
