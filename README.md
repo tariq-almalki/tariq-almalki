@@ -1,11 +1,11 @@
 **Core Languages: Java, Javascript, Python [, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia, R]**\
-**Front-end: Javascript, HTML5, CSS3**\
-**preprocessor scripting language: [SASS/SCSS]**\
-**Front-ends frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, React-Query, Angular]**\
-**Front-ends state management libraries: [, zustand, redux/redux toolkit, mobx]**\
-**Back-ends: Java, Node.js [, Bun, ASP.NET]**\
+**Front-end Languages: Javascript, HTML5, CSS3**\
+**preprocessor scripting languages: [SASS/SCSS]**\
+**Front-end frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, React-Query, Angular]**\
+**Front-end state management libraries: [, zustand, redux/redux toolkit, mobx]**\
+**Back-end Languages: Java, Node.js [, Bun, ASP.NET]**\
 **Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails]**\
-**Build Tools: [Maven, SWC, esbuild, Gradle]**\
+**Build Tools: [Maven, Gradle, swc, esbuild]**\
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
 **Object-Relational Mappings: [JOOQ, Hibernate, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
