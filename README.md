@@ -14,7 +14,7 @@
 **Containers: Docker, Docker-Compose [, Kubernetes]**\
 **CI/CD servers: [Jenkins, Github Actions]**\
 **IaC: [Terraform, Ansible]**\
-**Cloud: [AWS]**\
+**Cloud: [AWS, Azure]**\
 **Testing libraries: [Jest, Junit 5, pytest]**\
 **APIs Architechture: [REST APIs, GraphQL APIs, gRPC/RPC APIs]**\
 \
