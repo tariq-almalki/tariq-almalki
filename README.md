@@ -7,6 +7,7 @@
 **Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails]**\
 **Build Tools: Maven, Gradle [, swc, esbuild]**\
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
+**Tools for drawing ERDs: dbdiagram**\
 **ORMs: [JOOQ, Hibernate, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
 **Linux distributions: [centos, ubuntu, debian]**\
