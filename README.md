@@ -1,7 +1,8 @@
 **Core Languages: Java, Javascript, Python [, C, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia, R]**\
 **Front-end Languages: Javascript, HTML5, CSS3**\
 **preprocessor scripting languages: [SASS/SCSS]**\
-**Front-end frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, React-Query, Angular]**\
+**Front-end frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, React-Query, Angular, Three.js]**\
+**Web Graphics Libraries: [Three.js, React Three Fiber]**\
 **Front-end state management libraries: [, zustand, redux/redux toolkit, mobx]**\
 **Back-end Languages: Java, Node.js [, Bun, ASP.NET]**\
 **Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails]**\
