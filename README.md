@@ -5,8 +5,8 @@
 **Web Graphics Libraries: [Three.js, React Three Fiber]**\
 **Animation Libraries: [framer-motion, react spring]**\
 **Front-end state management libraries: [, zustand, redux/redux toolkit, mobx]**\
-**Back-end Languages: Java, Node.js [, Bun, ASP.NET]**\
-**Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails]**\
+**Back-end Languages: Java, Node.js [, Bun]**\
+**Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails, ASP.NET]**\
 **Build Tools: Maven, Gradle, vite [, swc, esbuild]**\
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
 **Tools for drawing ERDs: dbdiagram**\
