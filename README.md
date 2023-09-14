@@ -1,5 +1,5 @@
-**Core Languages: Java, Javascript, Python [, C, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia, R, Kotlin]**\
-**Android Application Development: [Kotlin]**\
+**Core Languages: Java, Javascript, Python [, C, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia, R, Kotlin, Dart]**\
+**Android Application Development: [Kotlin, Flutter]**\
 **Front-end Languages: Javascript, HTML5, CSS3**\
 **preprocessor scripting languages: [SASS/SCSS]**\
 **Front-end frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, React-Query, Angular, Three.js]**\
