@@ -1,5 +1,5 @@
 **Core Languages: Java, Javascript, Python [, C, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia, R, Kotlin]**\
-**Mobile Development (Android): [Kotlin]**\
+**Android Application Development: [Kotlin]**\
 **Front-end Languages: Javascript, HTML5, CSS3**\
 **preprocessor scripting languages: [SASS/SCSS]**\
 **Front-end frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, React-Query, Angular, Three.js]**\
@@ -21,9 +21,9 @@
 **Cloud: [AWS, Azure]**\
 **Testing libraries: [Jest, Junit 5, pytest, vitest]**\
 **APIs Architechture: [REST APIs, GraphQL APIs, gRPC/RPC APIs]**\
-**Game Engine: [Godot]**\
+**Game Engines: [Unreal Engine, Godot]**\
 \
-**[ML-NN-DL] & Hacking.**
+**[ML-NN-DL] & Hacking & Game Dev.**
 
 <!---
 tariq-almalki/tariq-almalki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
