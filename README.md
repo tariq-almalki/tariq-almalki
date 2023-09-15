@@ -23,7 +23,7 @@
 **APIs Architechture: [REST APIs, GraphQL APIs, gRPC/RPC APIs]**\
 **Game Engines: [Unreal Engine, Godot]**\
 \
-**[ML-NN-DL] & [Hacking] & [Game Dev]**
+**[ML-NN-DL] & [Hacking] & [2D and 3D Game Dev] & [Android Dev]**
 
 <!---
 tariq-almalki/tariq-almalki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
