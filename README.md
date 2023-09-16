@@ -21,7 +21,7 @@
 **Cloud: [AWS, Azure]**\
 **Testing libraries: [Jest, Junit 5, pytest, vitest]**\
 **APIs Architechture: [REST APIs, GraphQL APIs, gRPC/RPC APIs]**\
-**Game Engines: [Unreal Engine, Godot, Unity]**\
+**Game Engines: [Unreal Engine, Unity]**\
 \
 **[ML-NN-DL] & [Hacking] & [2D and 3D Game Dev] & [Mobile Dev]**
 
