@@ -2,7 +2,7 @@
 **Mobile Application Development: [Java, Kotlin, Flutter, C/C++]**\
 **Front-end Languages: Javascript, HTML5, CSS3**\
 **preprocessor scripting languages: [SASS/SCSS]**\
-**Front-end frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, React-Query, Angular, Three.js]**\
+**Front-end frameworks/libraries: React.js, React Router, styled-components [, Nextjs, Remix, Svelte, React-Query, Angular, Three.js]**\
 **Web Graphics Libraries: [Three.js, React Three Fiber]**\
 **Animation Libraries: [framer-motion, react spring]**\
 **Front-end state management libraries: [, zustand, redux/redux toolkit, mobx]**\
