@@ -7,7 +7,7 @@
 **Animation Libraries: [framer-motion, react spring]**\
 **Front-end state management libraries: [, zustand, redux/redux toolkit, mobx]**\
 **Back-end Languages: Java, Node.js [, Bun]**\
-**Back-ends frameworks/libraries: Spring framework, Express.js [, Django, Flask, Nestjs, Ruby on Rails, ASP.NET]**\
+**Back-ends frameworks/libraries: Express.js [, Spring framework, Django, Flask, Nestjs, Ruby on Rails, ASP.NET]**\
 **Build Tools: maven, gradle, vite [, swc, esbuild]**\
 **Project Management: [Jira]**\
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
