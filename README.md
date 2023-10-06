@@ -1,4 +1,4 @@
-**Core Languages: Java, Javascript, Python [, C, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia, R, Kotlin, Dart, Vlang]**\
+**Core Languages: Java, Javascript, Python [, C, C++, Lua, Zig, Go, Rust, htmx, OCaml, Mojo, Typescript, C#, WebAssembly, Ruby, Julia, R, Kotlin, Dart, Vlang, PHP]**\
 **Mobile Application Development: [Java, Kotlin, Flutter, C/C++]**\
 **Front-end Languages: Javascript, HTML5, CSS3**\
 **preprocessor scripting languages: [SASS/SCSS]**\
@@ -7,7 +7,7 @@
 **Animation Libraries: [framer-motion, react spring]**\
 **Front-end state management libraries: [, zustand, redux/redux toolkit, mobx]**\
 **Back-end Languages: Java, Node.js [, Bun]**\
-**Back-ends frameworks/libraries: Express.js [, Spring framework, Django, Flask, Nestjs, Ruby on Rails, ASP.NET]**\
+**Back-ends frameworks/libraries: Express.js [, Spring, Django, Flask, Nestjs, Ruby on Rails, ASP.NET Core, Laravel]**\
 **Build Tools: maven, gradle, vite [, swc, esbuild]**\
 **Project Management: [Jira]**\
 **Databases: MySQL, OracleSQL [, PostgreSQL]**\
