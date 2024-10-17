@@ -23,6 +23,8 @@
 **Cloud: [AWS, Azure]**\
 **Testing libraries: [Jest, Junit 5, pytest, vitest]**\
 **APIs Architechture: [REST APIs, GraphQL APIs, gRPC/RPC APIs]**\
+**APIs Management Tool: [Apigee]**\
+**Data analytics and monitoring platform: [Splunk, Grafana, Prometheus, Tableau]**\
 **Game Engines: [Unreal Engine, Unity]**\
 \
 **[ML-NN-DL] & [Hacking] & [2D and 3D Game Dev] & [Mobile Dev]**
