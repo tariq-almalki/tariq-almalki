@@ -9,7 +9,6 @@
 **Back-end Languages: Java, Node.js**\
 **Back-ends frameworks/libraries: Spring{boot, mvc, webflux, integration, rest docs, cloud, security, batch, data, cli, shell}, thymeleaf, Nestjs, Express.js [, Django, Flask, Ruby on Rails, ASP.NET Core, Laravel]**\
 **Build Tools: Maven, Gradle, Vite, SWC, Esbuild, Webpack**\
-**Project Management: [Jira]**\
 **SQL Databases: MySQL, OracleSQL, PostgreSQL**\
 **NoSQL Databases: MongoDB**\
 **Tools for drawing ERDs: Dbdiagram**\
