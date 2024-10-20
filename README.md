@@ -5,14 +5,14 @@
 **Front-end frameworks/libraries:  Remix.js, Nextjs, React.js, React Router, React-Query, styled-components, Angular [, Svelte]**\
 **Web Graphics Libraries: Three.js, React-three-fiber**\
 **Animation Libraries: Framer-motion, React-spring**\
-**Front-end state management libraries: zustand, redux/redux toolkit [, mobx]**\
+**Front-end state management libraries: Zustand, Redux/Redux toolkit [, mobx]**\
 **Back-end Languages: Java, Node.js**\
-**Back-ends frameworks/libraries: Spring{boot, security, batch, data, cli, shell}, Nestjs, Express.js [, Django, Flask, Ruby on Rails, ASP.NET Core, Laravel]**\
+**Back-ends frameworks/libraries: Spring{boot, mvc, webflux, integration, rest docs, cloud, security, batch, data, cli, shell}, thymeleaf, Nestjs, Express.js [, Django, Flask, Ruby on Rails, ASP.NET Core, Laravel]**\
 **Build Tools: Maven, Gradle, Vite, SWC, Esbuild, Webpack**\
 **Project Management: [Jira]**\
 **SQL Databases: MySQL, OracleSQL, PostgreSQL**\
 **NoSQL Databases: MongoDB**\
-**Tools for drawing ERDs: dbdiagram**\
+**Tools for drawing ERDs: Dbdiagram**\
 **ORMs: Hibernate , JOOQ [, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
 **Linux distributions: Centos, Ubuntu, Debian**\
@@ -20,7 +20,7 @@
 **Containers: Docker, Docker-Compose, Kubernetes**\
 **CI/CD servers: Jenkins, Github Actions**\
 **IaC: Terraform, Ansible**\
-**Cloud: [AWS, Azure]**\
+**Cloud: AWS [, Azure]**\
 **Testing libraries: Jest, Junit 5, Vitest [, Pytest]**\
 **APIs Architechture: REST APIs, GraphQL APIs, gRPC/RPC APIs**\
 **APIs Management Tool: Apigee**\
