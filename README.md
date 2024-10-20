@@ -15,13 +15,13 @@
 **Tools for drawing ERDs: dbdiagram**\
 **ORMs: Hibernate , JOOQ [, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
-**Linux distributions: centos, ubuntu, debian**\
+**Linux distributions: Centos, Ubuntu, Debian**\
 **Linux shells: bash, zsh [, ash, fish, tcsh, ksh]**\
 **Containers: Docker, Docker-Compose, Kubernetes**\
 **CI/CD servers: Jenkins, Github Actions**\
 **IaC: Terraform, Ansible**\
 **Cloud: [AWS, Azure]**\
-**Testing libraries: Jest, Junit 5, vitest [, pytest]**\
+**Testing libraries: Jest, Junit 5, Vitest [, Pytest]**\
 **APIs Architechture: REST APIs, GraphQL APIs, gRPC/RPC APIs**\
 **APIs Management Tool: Apigee**\
 **Data analytics and monitoring platform: Splunk, Grafana, Prometheus [, Tableau]**\
