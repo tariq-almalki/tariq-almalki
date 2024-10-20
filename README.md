@@ -3,7 +3,7 @@
 **Front-end Languages: Javascript, HTML5, CSS3**\
 **preprocessor scripting languages: SASS/SCSS**\
 **Front-end frameworks/libraries: React.js, React Router, styled-components, Angular, React-Query, Nextjs, Remix [, Svelte]**\
-**Web Graphics Libraries: Three.js, React Three Fiber**\
+**Web Graphics Libraries: Three.js, react-three-fiber**\
 **Animation Libraries: framer-motion, react-spring**\
 **Front-end state management libraries: zustand, redux/redux toolkit [, mobx]**\
 **Back-end Languages: Java, Node.js**\
