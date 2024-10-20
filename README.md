@@ -2,18 +2,18 @@
 **Mobile Application Development: [Java, Kotlin, Flutter, C/C++]**\
 **Front-end Languages: Javascript, HTML5, CSS3**\
 **preprocessor scripting languages: SASS/SCSS**\
-**Front-end frameworks/libraries: React.js, React Router, styled-components, Angular, React-Query, Nextjs, Remix [, Svelte]**\
-**Web Graphics Libraries: Three.js, react-three-fiber**\
-**Animation Libraries: framer-motion, react-spring**\
+**Front-end frameworks/libraries:  Remix.js, Nextjs, React.js, React Router, React-Query, styled-components, Angular [, Svelte]**\
+**Web Graphics Libraries: Three.js, React-three-fiber**\
+**Animation Libraries: Framer-motion, React-spring**\
 **Front-end state management libraries: zustand, redux/redux toolkit [, mobx]**\
 **Back-end Languages: Java, Node.js**\
-**Back-ends frameworks/libraries: Spring, Nestjs, Express.js [, Django, Flask, Ruby on Rails, ASP.NET Core, Laravel]**\
-**Build Tools: maven, gradle, vite, swc, esbuild, webpack**\
+**Back-ends frameworks/libraries: Spring{boot, security, batch, data, cli, shell}, Nestjs, Express.js [, Django, Flask, Ruby on Rails, ASP.NET Core, Laravel]**\
+**Build Tools: Maven, Gradle, Vite, SWC, Esbuild, Webpack**\
 **Project Management: [Jira]**\
 **SQL Databases: MySQL, OracleSQL, PostgreSQL**\
-**NoSQL Databases: [MongoDB]**\
+**NoSQL Databases: MongoDB**\
 **Tools for drawing ERDs: dbdiagram**\
-**ORMs: Hibernate [, JOOQ, typeORM, sequelize, prisma]**\
+**ORMs: Hibernate , JOOQ [, typeORM, sequelize, prisma]**\
 **OS: Windows, Linux**\
 **Linux distributions: centos, ubuntu, debian**\
 **Linux shells: bash, zsh [, ash, fish, tcsh, ksh]**\
