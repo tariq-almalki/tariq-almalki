@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 4328 repositories
+                            Starred 4337 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -408,7 +408,7 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcEA//EAC4QAAEDAgMHAgYDAAAAAAAAAAECAwQFEQASIQYTFDFBUWFScQciMjNCkYHB8P/EABcBAQADAAAAAAAAAAAAAAAAAAQBAgP/xAAcEQACAwEAAwAAAAAAAAAAAAAAAQIREgMhMUH/2gAMAwEAAhEDEQA/AMfw62RUbS3mhw12nEqdaJDuhPydNP7/AFcIpaU9GabysosLqCja46274HbJMMRKUtqPOM1BtmKHAQHPYHTn+vbCag0yXI4gbxLiDbKEp+33ueuANWxfKOIi2rx2J9NTnO8cYs4CE5+XjriWRa8mOuShMJC0b0lJXnJIsPSbYf0RqTR2Goz7rkg2OdSgNTc6WH+1xqlwaa0+pCWYiLcwtJvfBe3PT0vZF58E6pbiWXUNRAyW0gLG5Fkajt3wypVZ4XerEZttu1wls3PLziWbMVV2W9TMzLDd45bVuklObUanX6vOG8hZSyu348sPjC42U3clH4L4cviHi7a75OgPIDHWm1WO3FDUlG6kIUQ6hZCiFE3Ov84IqmvojR3W15F5BqnTEzru1U5VTfKm4yjnXqUH1HzgvR4SNJ0f/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYCBAEDB//EACwQAAIBAwMDAgQHAAAAAAAAAAEDAgQFEQASITFBUQYTFBUiYSMyUnGRobH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgQAA//EABoRAAMBAQEBAAAAAAAAAAAAAAABAiERAyL/2gAMAwEAAhEDEQA/ADk77T+5+OCssOB31CupGXuobR25tOHqpy8SKgzfPOIQByMZIPP20lXiot6bhxSJWov2BiWYwPPA66cbZ6fVS3wVtJcqmUExkvhhIYJ+ck8deOhOD21HrWFDcw+0Ldol8ypwXArevctkQc+3Idf8GsOpK0MIlOef31tq7GixUzUUD3LWxYJYRkiYyCRjzjRld3tlTAMbUqVLptmcEawqpVqJ1SrZJ09hecngE4xo18RbbctlO+4UFJUqUuYp3sCpNgYZ3iZ4J+3X+tAL0dqUY7OhrnnrKZZesyz+QdST2PnXSIF9fpaNnrO4miZRiYDYexly8/Wd+dL9Ra2NZ7inokJDJ3wjkHxqzaqt9ZQrdUtkxkydxPfrq4JS/VL+dBxofJcnh//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -450,7 +450,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Nov 2026, 07:57:58 (timezone Asia/Riyadh) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2026, 08:06:51 (timezone Asia/Riyadh) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
