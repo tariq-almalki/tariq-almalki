@@ -9,6 +9,6 @@
 
 ## Technologies
 
-Java · Python · JavaScript · TypeScript · Spring · FastAPI · Django · AWS · NNext.js · Docker · Kubernetes
+Java · Python · JavaScript · TypeScript · Spring · FastAPI · Django · AWS · Next.js · Docker · Kubernete
 
 <!-- The metrics image is generated automatically by GitHub Actions. -->
